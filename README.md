@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
+![cover]([https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ86BriwxOIFWIhPuWLdP87kDP_3vQSjUKvQ&usqp=CAU))
 
 
 <h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"> Muhammad Samiullah </a> </h1>
