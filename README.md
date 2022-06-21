@@ -1,23 +1,23 @@
-![cover]([https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ86BriwxOIFWIhPuWLdP87kDP_3vQSjUKvQ&usqp=CAU))
+![cover](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
 
 
-<h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"> Muhammad Samiullah </a> </h1>
+<h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/suhaib-ahmed-shariff-a6919b216/" target="_blank"> Suhaib Ahmed Shariff </a> </h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
  
 ### About Me,
 
- I am <b>Muhammad Samiullah</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
+ I am <b>Suhaib Ahmed Shariff</b> pursuing my <b>Software Engineering Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
  
- <h3 align="center"> Tech Enthusiast | Frontend Developer | Open Source</h3>
+ <h3 align="center"> Tech Enthusiast | Frontend Developer | Backend Developer</h3>
  
  <div>
  <h1>Let's Learn, Grow and Connect</h1>
 
-<a  href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/suhaib-ahmed-shariff-a6919b216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/samipak458" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:samipak458@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://github.com/samipak458"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a href="mailto:asuhaib2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://github.com/asuhaib2002"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
  
@@ -74,7 +74,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   </div>
 
 # 📈 Contribution Graph  
- [![Muhammad Samiullah's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=samipak458&&theme=xcode)](https://github.com/samipak458)
+ [![Suhaib AHmed Shariff's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asuhaib2002&&theme=xcode)](https://github.com/asuhaib2002)
 
  </div>
 
