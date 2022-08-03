@@ -51,12 +51,11 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](#)     | Portfolio website build using HTML5, CSS3, Bootstrap and JavaScript. 
-| [Blood Support Website](https://blood-support.live/)   | a support platform to bridge the gap between donors and patients, so that they can easily connect with nearby blood donors and blood banks.
-| [Restaurant Website](https://foodies.samimunir2002.repl.co/)     | This is a restaurant website. You can place orders by using add to cart functionality. This website allows you to addcomments, subscribe to newsletter and order your favorite food. With a rich and seamless user experience, the site can help to attract more customers. 
-| [Candy Store](https://candystore.samimunir2002.repl.co/index.html)     | I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order by using add to cart functionality. While switching pages, you can see a loader. This website allows you all the basal services that website provides.
-| [Fitness Club](https://fitnessclub.samimunir2002.repl.co/)     | The project is built at client end to keep client up-to-date from all the latest information. This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.
-| [Online Note](https://create-online-notes.samimunir2002.repl.co/)     | Note Taking Website App using pure JavaScript. We all have a notes app on our mobiles or laptop. Note-taking websites are the online equivalent of notebooks, and because they are digital, they can do more for you than paper ever could.
+| [My Portfolio Website](#)     | Portfolio website build using ReactJS and HTML ,CSS. 
+| [E-commerce Website](https://shariff-ecomerce.herokuapp.com/)   | A personal project which has a user login/register functionality and also allows us to add products. This project is made on Flask framework and uses sqlite database.
+| [Todo Website](https://todo-manager0.herokuapp.com/)     | A todo website which is made with Flask and with sqlite as it's back-end. 
+| [Phone Directory ](https://phonedirectorydsa.herokuapp.com/)     | This project is basically a Contact Management System with used Flask and sqlite database
+| [Bhook Mitao](https://bhook-mitao.samimunir2002.repl.co/homepage.html)     | Bhook Mitao is a web based solution which I made in Hackfest'22. It focuses on the white collar population and provides them food by acting a brudge between them and the organization. That too with privacy of their information.
 
   
 # ⚙️ GitHub Analytics
