@@ -15,7 +15,7 @@
  <h1>Let's Learn, Grow and Connect</h1>
 
 <a  href="https://www.linkedin.com/in/suhaib-ahmed-shariff-a6919b216/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/samipak458" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/uncultured_paki" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:asuhaib2002@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://github.com/asuhaib2002"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
@@ -51,7 +51,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sami.samimunir2002.repl.co/)     | Portfolio website build using HTML5, CSS3, Bootstrap and JavaScript. 
+| [My Portfolio Website](#)     | Portfolio website build using HTML5, CSS3, Bootstrap and JavaScript. 
 | [Blood Support Website](https://blood-support.live/)   | a support platform to bridge the gap between donors and patients, so that they can easily connect with nearby blood donors and blood banks.
 | [Restaurant Website](https://foodies.samimunir2002.repl.co/)     | This is a restaurant website. You can place orders by using add to cart functionality. This website allows you to addcomments, subscribe to newsletter and order your favorite food. With a rich and seamless user experience, the site can help to attract more customers. 
 | [Candy Store](https://candystore.samimunir2002.repl.co/index.html)     | I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order by using add to cart functionality. While switching pages, you can see a loader. This website allows you all the basal services that website provides.
