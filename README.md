@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
+![cover](![4-41514_developer-png-transparent-png](https://user-images.githubusercontent.com/73987670/182678403-40939338-83f3-4465-94df-038c8642c7db.png))
 
 
 <h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/suhaib-ahmed-shariff-a6919b216/" target="_blank"> Suhaib Ahmed Shariff </a> </h1>
