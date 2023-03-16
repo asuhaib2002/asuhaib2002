@@ -7,7 +7,7 @@
  
 ### About Me,
 
- I am <b>Suhaib Ahmed Shariff</b> pursuing my <b>Software Engineering Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
+ I am <b>Suhaib Ahmed Shariff</b> pursuing my <b>Software Engineering Degree</b> from DHA Suffa University, Currently in my 3rd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
  
  <h3 align="center"> Tech Enthusiast | Frontend Developer | Backend Developer</h3>
  
