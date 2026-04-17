@@ -20,7 +20,6 @@ designing production-grade backend architectures that are reliable, efficient, a
 <h2>🚀 Let's Build, Scale and Solve</h2>
 </div>
 
----
 
 ## 🚀 What I do
 - Design scalable backend architectures  
@@ -50,7 +49,7 @@ designing production-grade backend architectures that are reliable, efficient, a
 ---
 
 ## 🌍 Open to
-Backend / Platform roles in Germany (Relocation)
+Backend / Platform roles
  <h3 align="center"> Tech Enthusiast | Frontend Developer | Backend Developer</h3>
  
  <div>
