@@ -7,8 +7,50 @@
  
 ### About Me,
 
- I am <b>Suhaib Ahmed Shariff</b> pursuing my <b>Software Engineering Degree</b> from DHA Suffa University, Currently in my 3rd year of Bachelor's. As of now, I am focused on <b>web development and dynamic programming </b> but still, wish to explore many fields. ⚡
- 
+
+ <p align="center">
+I am <b>Suhaib Ahmed Shariff</b>, a <b>Lead Backend Engineer</b> focused on building 
+<b>scalable, high-performance systems</b>. I specialize in <b>Python, Django</b>, and 
+designing production-grade backend architectures that are reliable, efficient, and built to scale. ⚡
+</p>
+
+<h3 align="center">Backend Engineer | System Design | Scalable Systems</h3>
+
+<div align="center">
+<h2>🚀 Let's Build, Scale and Solve</h2>
+</div>
+
+---
+
+## 🚀 What I do
+- Design scalable backend architectures  
+- Build production-grade APIs with Django & Python  
+- Optimize databases and system performance  
+- Work with async systems (Celery, Redis, queues)  
+
+---
+
+## 🧠 Tech Stack
+**Python, Django, PostgreSQL, Redis, Celery, Docker**
+
+---
+
+## 📌 Featured Work
+- Scalable booking system (Django + async workers)  
+- Wallet & payments system (event-driven design)  
+- System design experiments (microservices, queues)  
+
+---
+
+## 🛠 Current Focus
+- Distributed systems  
+- System design for scale  
+- Backend performance optimization  
+
+---
+
+## 🌍 Open to
+Backend / Platform roles in Germany (Relocation)
  <h3 align="center"> Tech Enthusiast | Frontend Developer | Backend Developer</h3>
  
  <div>
