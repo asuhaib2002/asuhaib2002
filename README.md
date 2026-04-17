@@ -48,7 +48,7 @@ Currently working as a **Lead Engineer**, driving backend architecture, system d
 ---
 
 ## 🌍 Open to Opportunities
-Backend / Platform roles (Open to relocation to Germany 🇩🇪)
+Backend / Platform roles
 
 ---
 
